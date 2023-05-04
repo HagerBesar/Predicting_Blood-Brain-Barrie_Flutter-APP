@@ -18,8 +18,8 @@ used as it contains:
 ---
 ## Machine learning models:
 
-- Support vector Machine(SVM).
-![SVM-code](https://user-images.githubusercontent.com/73137133/236217480-ef74ed10-7afa-46ba-91c0-0c4a34a0bb8c.png) ![SVC performance](https://user-images.githubusercontent.com/73137133/236217677-42454aca-1a47-47d7-82ab-e4de789626bc.png)
+### Support vector Machine(SVM).
+![SVM-code](https://user-images.githubusercontent.com/73137133/236217480-ef74ed10-7afa-46ba-91c0-0c4a34a0bb8c.png) 
 
 ---
 
