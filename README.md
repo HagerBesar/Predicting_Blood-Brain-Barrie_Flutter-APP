@@ -2,9 +2,12 @@
 Flutter Application for Predicting the Blood−Brain Barrie
 
 ---
-One of the significant lines of research in chemo informatics is the 
-study of blood–brain barrier (BBB) permeability, which aims to 
-identify drug penetration into the central nervous system (CNS).
+Predicting the ability of chemical species to cross the blood−brain barrier (BBB) is an
+active field of research for development and mechanistic understanding in the pharmaceutical industry.
+
+---
+
+## Flutter APP
 
 
 ---
@@ -44,10 +47,9 @@ used as it contains:
 ### Decision Tree.
 ![Dtree-code](https://user-images.githubusercontent.com/73137133/236219026-d7f90d0e-a257-4a18-9a20-d17ec69e2c1e.png)
  
+
 ---
 
-## Flutter APP
-
-
+![all](https://user-images.githubusercontent.com/73137133/236223694-dd4063e9-56c3-48ca-84e0-e807d4d1e474.png)
 
 
