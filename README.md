@@ -23,24 +23,23 @@ used as it contains:
 
 ---
 
-- Logistic Regression. 
+### Logistic Regression. 
 
-![LOG-Code](https://user-images.githubusercontent.com/73137133/236217939-d87bd020-5f5b-4b3b-9687-384d3c0602c9.png) ![LOG performance](https://user-images.githubusercontent.com/73137133/236218012-022ad2aa-bc6c-4917-a23d-59d4fa959b5b.png)
+![LOG-Code](https://user-images.githubusercontent.com/73137133/236217939-d87bd020-5f5b-4b3b-9687-384d3c0602c9.png)
 
 ---
  
-- Gradient Boosting Classifier.
-![GBM-Code](https://user-images.githubusercontent.com/73137133/236218321-cce9f89d-da0c-41a3-9f34-120a24d94805.png)  ![GBC performance](https://user-images.githubusercontent.com/73137133/236218439-38aa7296-d48c-4ad4-b808-cdcf1667c41d.png)
+### Gradient Boosting Classifier.
+![GBM-Code](https://user-images.githubusercontent.com/73137133/236218321-cce9f89d-da0c-41a3-9f34-120a24d94805.png)
+---
+
+### K-Nearest Neighbor (KNN).
+![KNN-Code](https://user-images.githubusercontent.com/73137133/236218719-494f2b1c-5268-4fed-8977-005c6b5a04bc.png) 
 
 ---
 
-- K-Nearest Neighbor (KNN).
-![KNN-Code](https://user-images.githubusercontent.com/73137133/236218719-494f2b1c-5268-4fed-8977-005c6b5a04bc.png) ![KNN performance](https://user-images.githubusercontent.com/73137133/236218854-f72c5d80-af5a-4b1f-b689-2fd6732b9729.png)
-
----
-
-- Decision Tree.
-![Dtree-code](https://user-images.githubusercontent.com/73137133/236219026-d7f90d0e-a257-4a18-9a20-d17ec69e2c1e.png) ![Dtree performance](https://user-images.githubusercontent.com/73137133/236219065-b11c2cc8-6f91-4945-8f38-57eb1e5b9d43.png)
+### Decision Tree.
+![Dtree-code](https://user-images.githubusercontent.com/73137133/236219026-d7f90d0e-a257-4a18-9a20-d17ec69e2c1e.png)
  
 ---
 
